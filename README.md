@@ -1,9 +1,14 @@
 # [English](../main/README.en.md)
 
-## Установка кастомных звуков в `neverlose`
 После завершения всех шагов ваш звук будет успешно добавлен в `neverlose`
 
 ![](https://i.imgur.com/nHfrOjq.png)
+
+## Установка готовых звуков
+
+Переносим папки из архива `hitsounds.rar` в папку `Steam\steamapps\common\Counter-Strike Global Offensive\game`
+
+## установка кастомных звуков `.wav`
 
 #### 1: Скачайте `Workshop Tools`
 
