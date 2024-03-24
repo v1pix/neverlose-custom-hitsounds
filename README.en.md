@@ -1,9 +1,14 @@
 # [Russian](../main/README.md)
 
-## Installing custom sounds in `neverlose`
 After completing all the steps, your sound will be successfully added to `neverlose`
 
 ![](https://i.imgur.com/nHfrOjq.png)
+
+## Installing ready-made sounds
+
+Move the folders from the archive `hitsounds.rar` to the directory `Steam\steamapps\common\Counter-Strike Global Offensive\game`
+
+## Installing custom .wav sounds
 
 #### 1: Download `Workshop Tools`
 
