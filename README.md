@@ -4,7 +4,7 @@
 
 ![](https://i.imgur.com/nHfrOjq.png)
 
-## Установка готовых звуков
+## Установка [готовых звуков](../../archive/refs/heads/main.zip)
 
 Переносим папки из архива `hitsounds.rar` в папку `Steam\steamapps\common\Counter-Strike Global Offensive\game`
 
