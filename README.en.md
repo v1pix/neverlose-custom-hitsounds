@@ -4,7 +4,7 @@ After completing all the steps, your sound will be successfully added to `neverl
 
 ![](https://i.imgur.com/nHfrOjq.png)
 
-## Installing ready-made sounds
+## Installing [ready-made sounds](../../archive/refs/heads/main.zip)
 
 Move the folders from the archive `hitsounds.rar` to the directory `Steam\steamapps\common\Counter-Strike Global Offensive\game`
 
