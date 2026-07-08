@@ -48,12 +48,6 @@ Close `Workshop Tools` after this.
 
 ####  7: Moving the sound file `sound_name.vsnd_c` to the game folder
 
-Move the file `sound_name.vsnd_c` to the folder `Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\sounds`
+Move the file `sound_name.vsnd_c` to the folder `Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\sounds\hitsounds`
 
 ![](https://i.imgur.com/vppskLy.png)
-
-#### 8: Create the file `sound_name.wav`
-
-Create a text document in the folder `Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\nl\hitsounds` and rename it to `sound_name.wav`
-
-![](https://i.imgur.com/C3wv41P.png)
