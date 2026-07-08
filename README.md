@@ -48,12 +48,6 @@
 
 ####  7: Переносим звуковой файл `название_звука.vsnd_c` в папку игры
 
-Переносим файл `название_звука.vsnd_c` в папку `Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\sounds`
+Переносим файл `название_звука.vsnd_c` в папку `Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\sounds\hitsounds`
 
 ![](https://i.imgur.com/vppskLy.png)
-
-#### 8: Создаем файл `название_звука.wav`
-
-Создаем текстовый документ в папке `Steam\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\nl\hitsounds` и переименовываем его в `название_звука.wav`
-
-![](https://i.imgur.com/C3wv41P.png)
